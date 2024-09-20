@@ -1,0 +1,77 @@
+ 2024-09-20 23:26:03,601 :INFO : tests.test_e2e :Student Housing Management Software that works the way you expect. | Entrata Student 
+ 2024-09-20 23:26:03,677 :INFO : tests.test_e2e :Entrata | Property Management the Way It Should Be 
+ 2024-09-21 00:25:49,830 :INFO : tests.test_e2e :1.Navigate to HomePage 
+ 2024-09-21 00:25:49,830 :INFO : tests.test_e2e :2.Fetch title of Home Page 
+ 2024-09-21 00:25:49,861 :INFO : tests.test_e2e :3.Verify title is - Property Management Software | Entrata  
+ 2024-09-21 00:26:03,379 :INFO : tests.test_e2e :1.Navigate to HomePage 
+ 2024-09-21 00:26:03,379 :INFO : tests.test_e2e :1.Navigate to HomePage 
+ 2024-09-21 00:26:03,381 :INFO : tests.test_e2e :2.Go to bottom of the HomePage 
+ 2024-09-21 00:26:03,381 :INFO : tests.test_e2e :2.Go to bottom of the HomePage 
+ 2024-09-21 00:26:03,487 :INFO : tests.test_e2e :3.Fetch the text present in the footer 
+ 2024-09-21 00:26:03,487 :INFO : tests.test_e2e :3.Fetch the text present in the footer 
+ 2024-09-21 00:26:03,677 :INFO : tests.test_e2e :4.Verify text/string - Sales: 1.800.700.2097 matched 
+ 2024-09-21 00:26:03,677 :INFO : tests.test_e2e :4.Verify text/string - Sales: 1.800.700.2097 matched 
+ 2024-09-21 00:26:15,984 :INFO : tests.test_e2e :1.Navigate to HomePage 
+ 2024-09-21 00:26:15,984 :INFO : tests.test_e2e :1.Navigate to HomePage 
+ 2024-09-21 00:26:15,984 :INFO : tests.test_e2e :1.Navigate to HomePage 
+ 2024-09-21 00:26:15,984 :INFO : tests.test_e2e :2.click on hyperlink - Join us at Summit 2024! 
+ 2024-09-21 00:26:15,984 :INFO : tests.test_e2e :2.click on hyperlink - Join us at Summit 2024! 
+ 2024-09-21 00:26:15,984 :INFO : tests.test_e2e :2.click on hyperlink - Join us at Summit 2024! 
+ 2024-09-21 00:26:16,352 :INFO : tests.test_e2e :3.collect the len of windowsID 
+ 2024-09-21 00:26:16,352 :INFO : tests.test_e2e :3.collect the len of windowsID 
+ 2024-09-21 00:26:16,352 :INFO : tests.test_e2e :3.collect the len of windowsID 
+ 2024-09-21 00:26:16,365 :INFO : tests.test_e2e :4.Verify if windowd id not matched 
+ 2024-09-21 00:26:16,365 :INFO : tests.test_e2e :4.Verify if windowd id not matched 
+ 2024-09-21 00:26:16,365 :INFO : tests.test_e2e :4.Verify if windowd id not matched 
+ 2024-09-21 00:26:16,365 :INFO : tests.test_e2e :5.close the all tabs. 
+ 2024-09-21 00:26:16,365 :INFO : tests.test_e2e :5.close the all tabs. 
+ 2024-09-21 00:26:16,365 :INFO : tests.test_e2e :5.close the all tabs. 
+ 2024-09-21 00:27:43,104 :INFO : tests.test_e2e :1.Navigate to HomePage 
+ 2024-09-21 00:27:43,104 :INFO : tests.test_e2e :2.Fetch title of Home Page 
+ 2024-09-21 00:27:43,152 :INFO : tests.test_e2e :3.Verify title is - Property Management Software | Entrata  
+ 2024-09-21 00:27:55,629 :INFO : tests.test_e2e :1.Navigate to HomePage 
+ 2024-09-21 00:27:55,629 :INFO : tests.test_e2e :1.Navigate to HomePage 
+ 2024-09-21 00:27:55,629 :INFO : tests.test_e2e :2.Go to bottom of the HomePage 
+ 2024-09-21 00:27:55,629 :INFO : tests.test_e2e :2.Go to bottom of the HomePage 
+ 2024-09-21 00:27:55,673 :INFO : tests.test_e2e :3.Fetch the text present in the footer 
+ 2024-09-21 00:27:55,673 :INFO : tests.test_e2e :3.Fetch the text present in the footer 
+ 2024-09-21 00:27:55,809 :INFO : tests.test_e2e :4.Verify text/string - Sales: 1.800.700.2097 matched 
+ 2024-09-21 00:27:55,809 :INFO : tests.test_e2e :4.Verify text/string - Sales: 1.800.700.2097 matched 
+ 2024-09-21 00:28:07,751 :INFO : tests.test_e2e :1.Navigate to HomePage 
+ 2024-09-21 00:28:07,751 :INFO : tests.test_e2e :1.Navigate to HomePage 
+ 2024-09-21 00:28:07,751 :INFO : tests.test_e2e :1.Navigate to HomePage 
+ 2024-09-21 00:28:07,751 :INFO : tests.test_e2e :2.click on hyperlink - Join us at Summit 2024! 
+ 2024-09-21 00:28:07,751 :INFO : tests.test_e2e :2.click on hyperlink - Join us at Summit 2024! 
+ 2024-09-21 00:28:07,751 :INFO : tests.test_e2e :2.click on hyperlink - Join us at Summit 2024! 
+ 2024-09-21 00:28:07,942 :INFO : tests.test_e2e :3.collect the len of windowsID 
+ 2024-09-21 00:28:07,942 :INFO : tests.test_e2e :3.collect the len of windowsID 
+ 2024-09-21 00:28:07,942 :INFO : tests.test_e2e :3.collect the len of windowsID 
+ 2024-09-21 00:28:07,949 :INFO : tests.test_e2e :4.Verify if windowd id not matched 
+ 2024-09-21 00:28:07,949 :INFO : tests.test_e2e :4.Verify if windowd id not matched 
+ 2024-09-21 00:28:07,949 :INFO : tests.test_e2e :4.Verify if windowd id not matched 
+ 2024-09-21 00:28:07,949 :INFO : tests.test_e2e :5.close the all tabs. 
+ 2024-09-21 00:28:07,949 :INFO : tests.test_e2e :5.close the all tabs. 
+ 2024-09-21 00:28:07,949 :INFO : tests.test_e2e :5.close the all tabs. 
+ 2024-09-21 00:29:06,023 :INFO : tests.test_e2e :1.Navigate to HomePage 
+ 2024-09-21 00:29:06,023 :INFO : tests.test_e2e :2.Fetch title of Home Page 
+ 2024-09-21 00:29:06,079 :INFO : tests.test_e2e :3.Verify title is - Property Management Software | Entrata  
+ 2024-09-21 00:29:19,224 :INFO : tests.test_e2e :1.Navigate to HomePage 
+ 2024-09-21 00:29:19,224 :INFO : tests.test_e2e :1.Navigate to HomePage 
+ 2024-09-21 00:29:19,224 :INFO : tests.test_e2e :2.Go to bottom of the HomePage 
+ 2024-09-21 00:29:19,224 :INFO : tests.test_e2e :2.Go to bottom of the HomePage 
+ 2024-09-21 00:29:19,239 :INFO : tests.test_e2e :3.Fetch the text present in the footer 
+ 2024-09-21 00:29:19,239 :INFO : tests.test_e2e :3.Fetch the text present in the footer 
+ 2024-09-21 00:29:19,299 :INFO : tests.test_e2e :4.Verify text/string - Sales: 1.800.700.2097 matched 
+ 2024-09-21 00:29:19,299 :INFO : tests.test_e2e :4.Verify text/string - Sales: 1.800.700.2097 matched 
+ 2024-09-21 00:29:31,043 :INFO : tests.test_e2e :1.Navigate to HomePage 
+ 2024-09-21 00:29:31,043 :INFO : tests.test_e2e :1.Navigate to HomePage 
+ 2024-09-21 00:29:31,043 :INFO : tests.test_e2e :1.Navigate to HomePage 
+ 2024-09-21 00:29:31,043 :INFO : tests.test_e2e :2.click on hyperlink - Join us at Summit 2024! 
+ 2024-09-21 00:29:31,043 :INFO : tests.test_e2e :2.click on hyperlink - Join us at Summit 2024! 
+ 2024-09-21 00:29:31,043 :INFO : tests.test_e2e :2.click on hyperlink - Join us at Summit 2024! 
+ 2024-09-21 00:29:31,783 :INFO : tests.test_e2e :3.collect the len of windowsID 
+ 2024-09-21 00:29:31,783 :INFO : tests.test_e2e :3.collect the len of windowsID 
+ 2024-09-21 00:29:31,783 :INFO : tests.test_e2e :3.collect the len of windowsID 
+ 2024-09-21 00:29:31,797 :INFO : tests.test_e2e :4.Verify if windowd id not matched 
+ 2024-09-21 00:29:31,797 :INFO : tests.test_e2e :4.Verify if windowd id not matched 
+ 2024-09-21 00:29:31,797 :INFO : tests.test_e2e :4.Verify if windowd id not matched 
