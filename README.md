@@ -2,6 +2,7 @@
 
 1.Steps to Create a Virtual Environment:
 git clone https://github.com/tanu-06/automate_entrata.git
+cd automate_entrata
 
 2.Create a Virtual Environment:
 python3 -m venv venv
