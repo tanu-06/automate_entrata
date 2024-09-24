@@ -66,7 +66,7 @@ All the testcase performed using web URL: https://www.entrata.com/b
 
      Steps Performed:
      1. Navigate to HomePage
-     2. go to bottom of the HomePage
+     2. Go to bottom of the HomePage
      3. Fetch the text present in the footer
      4. Verify text/string - Sales: 1.800.700.2097 matched
 
@@ -78,9 +78,9 @@ All the testcase performed using web URL: https://www.entrata.com/b
     and then close all tabs.
 
     Steps Performed:
-    1.Navigate to HomePage
-    2. click on hyperlink - Join us at Summit 2024!
-    3. collect the len of windowsID
+    1. Navigate to HomePage
+    2. Click on hyperlink - Join us at Summit 2024!
+    3. Collect the len of windowsID
     4. Verify if windowd id not matched
 
 4. Create fixture:
